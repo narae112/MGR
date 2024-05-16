@@ -23,5 +23,5 @@ public class Attraction {
     @Column(columnDefinition = "TEXT")
     private String information;
 
-    //test 9
+    //test 0928
 }
