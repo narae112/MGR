@@ -19,6 +19,7 @@ public class Attraction {
     private String condition;
 //    boolean condition;
 //pull test 2
+    //pull test 4
     @Column(columnDefinition = "TEXT")
     private String information;
 //pull test
