@@ -25,5 +25,4 @@ public class Attraction {
 //pull test
     //pull test 3
     //test 6
-    //test 8
 }
