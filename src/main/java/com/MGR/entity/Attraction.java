@@ -24,4 +24,5 @@ public class Attraction {
     private String information;
 //pull test
     //pull test 3
+    //test 6
 }
