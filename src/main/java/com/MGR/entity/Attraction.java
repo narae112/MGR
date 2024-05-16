@@ -24,4 +24,5 @@ public class Attraction {
     private String information;
 
     //test 0928
+//test 0927
 }
