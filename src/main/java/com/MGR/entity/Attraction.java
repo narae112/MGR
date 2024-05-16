@@ -22,8 +22,6 @@ public class Attraction {
     //pull test 4
     @Column(columnDefinition = "TEXT")
     private String information;
-//pull test
-    //pull test 3
-    //test 6
+
     //test 9
 }
