@@ -1,11 +1,9 @@
 package com.MGR.entity;
 
+import com.MGR.constant.Role;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-
-import java.util.ArrayList;
-import java.util.List;
 
 @Entity
 @Setter @Getter
@@ -32,5 +30,8 @@ public class Member {
 
     @Column
     private Boolean isSuspended;
+
+    @Enumerated(EnumType.STRING)
+    private Role role;
 
 }

@@ -1,12 +1,11 @@
 package com.MGR.entity;
 
-import com.MGR.enumType.PaymentType;
+import com.MGR.constant.PaymentType;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
 import java.time.LocalDateTime;
-import java.util.List;
 
 @Entity
 @Setter @Getter

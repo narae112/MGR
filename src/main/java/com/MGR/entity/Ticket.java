@@ -1,6 +1,6 @@
 package com.MGR.entity;
 
-import com.MGR.enumType.TicketCategory;
+import com.MGR.constant.TicketCategory;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
