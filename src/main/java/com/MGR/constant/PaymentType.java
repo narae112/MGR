@@ -1,4 +1,4 @@
-package com.MGR.enumType;
+package com.MGR.constant;
 
 public enum PaymentType {
 
