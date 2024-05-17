@@ -26,4 +26,5 @@ public class Attraction {
     //pull test 3
     //test 6
     //test 9
+//최영인 오후 2시 4분
 }
