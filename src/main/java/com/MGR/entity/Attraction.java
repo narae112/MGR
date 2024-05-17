@@ -26,3 +26,4 @@ public class Attraction {
     //test 0928
 //test 0927
 }
+// test 혜원 0226
