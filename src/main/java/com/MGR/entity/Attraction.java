@@ -25,5 +25,5 @@ public class Attraction {
 
     //test 0928
 //test 0927
-    //영인!!
+    //영인!!@@@@
 }
