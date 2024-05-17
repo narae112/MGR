@@ -28,4 +28,5 @@ public class Attraction {
     //test 9
 
     //강평강 245
+    //강평강 251
 }
