@@ -26,4 +26,5 @@ public class Attraction {
     //test 0928
 //test 0927
     //나래 0202
+    //나래 0214
 }
