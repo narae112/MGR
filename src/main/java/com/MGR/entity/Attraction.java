@@ -26,4 +26,5 @@ public class Attraction {
     //pull test 3
     //test 6
     //test 9
+    //나래 0219
 }
