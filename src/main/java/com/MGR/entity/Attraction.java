@@ -28,5 +28,6 @@ public class Attraction {
     //나래 0202
     //나래 0214
     //나래 0218
+    //나래 0244
 }
 // test 혜원 0226
